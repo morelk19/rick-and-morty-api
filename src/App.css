@@ -1,3 +1,14 @@
+body {
+  background-color: lightgrey;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.header{
+  background-color:yellow
+}
+
 .App {
   text-align: center;
 }
